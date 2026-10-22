@@ -1,4 +1,4 @@
-# OpeniOS
+# OpeniOS (Coming soon!)
 
 OpeniOS is a free, local, IPSW-driven iOS emulation project built for experimentation, diagnostics, and learning. The goal is simple: let users import an IPSW, define a compatible device profile, and explore early iPhone/iOS behavior without needing a physical device.
 
